@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+aurahairstudio.ca	TRUE	/	FALSE	1999999999	vchideactivationmsg	1
+aurahairstudio.ca	TRUE	/	FALSE	1999999999	vchideactivationmsg_vc11	6.9.0
+

@@ -1,0 +1,90 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 19 Apr 2026 10:19:15 at https://aurahairstudio.ca/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://aurahairstudio.ca/ -O1 "D:\realityfaces\Groove Salon" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:20:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://aurahairstudio.ca/xmlrpc.php?rsd (from https://aurahairstudio.ca/)
+10:20:37	Error: 	"Not Found" (404) at link https://aurahairstudio.ca/wp-content/uploads/2024/07/quote.jpg (from https://aurahairstudio.ca/)
+10:20:37	Error: 	"Not Found" (404) at link https://aurahairstudio.ca/wp-content/uploads/2024/08/Toronto-wedding-photographer-5-scaled.jpg (from https://aurahairstudio.ca/)
+10:20:37	Error: 	"Not Found" (404) at link https://aurahairstudio.ca/wp-content/uploads/2024/06/left.svg (from https://aurahairstudio.ca/)
+10:20:37	Error: 	"Not Found" (404) at link https://aurahairstudio.ca/wp-content/uploads/2024/06/right.svg (from https://aurahairstudio.ca/)
+10:21:52	Error: 	"Bad Request" (400) at link https://aurahairstudio.ca/wp-admin/admin-ajax.php (from https://aurahairstudio.ca/)
+10:21:52	Error: 	"Not Found" (404) at link https://aurahairstudio.ca/wp-content/plugins/liquid_js_composer/assets/images/toggle_open.png (from https://aurahairstudio.ca/wp-content/plugins/liquid_js_composer/assets/css/js_composer.min.css?ver=6.9.0)
+10:21:52	Error: 	"Not Found" (404) at link https://aurahairstudio.ca/wp-content/plugins/liquid_js_composer/assets/images/toggle_close.png (from https://aurahairstudio.ca/wp-content/plugins/liquid_js_composer/assets/css/js_composer.min.css?ver=6.9.0)
+10:21:52	Error: 	"Not Found" (404) at link https://aurahairstudio.ca/wp-content/plugins/liquid_js_composer/assets/images/flickr.png (from https://aurahairstudio.ca/wp-content/plugins/liquid_js_composer/assets/css/js_composer.min.css?ver=6.9.0)
+10:21:52	Error: 	"Not Found" (404) at link https://aurahairstudio.ca/wp-content/plugins/liquid_js_composer/assets/vc/blur.svg (from https://aurahairstudio.ca/wp-content/plugins/liquid_js_composer/assets/css/js_composer.min.css?ver=6.9.0)
+10:21:52	Error: 	"Not Found" (404) at link https://aurahairstudio.ca/wp-content/plugins/liquid_js_composer/assets/vc/tick.png (from https://aurahairstudio.ca/wp-content/plugins/liquid_js_composer/assets/css/js_composer.min.css?ver=6.9.0)
+10:21:52	Error: 	"Not Found" (404) at link https://aurahairstudio.ca/wp-content/plugins/liquid_js_composer/assets/vc/remove.png (from https://aurahairstudio.ca/wp-content/plugins/liquid_js_composer/assets/css/js_composer.min.css?ver=6.9.0)
+10:21:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://aurahairstudio.ca/xmlrpc.php?rsd (from https://aurahairstudio.ca/)
+10:21:54	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=33461
+10:21:54	Warning: 	File has moved from https://aurahairstudio.ca/?p=33461 to https://aurahairstudio.ca/portfolio/
+10:21:54	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=33463
+10:21:54	Warning: 	File has moved from https://aurahairstudio.ca/?p=33463 to https://aurahairstudio.ca/about-us/
+10:21:54	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=22816
+10:21:54	Warning: 	File has moved from https://aurahairstudio.ca/?p=22816 to https://aurahairstudio.ca/faq/
+10:21:54	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=60744
+10:21:54	Warning: 	File has moved from https://aurahairstudio.ca/?p=60744 to https://aurahairstudio.ca/womens-hair-services-innisfil/
+10:21:54	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=65
+10:21:54	Warning: 	File has moved from https://aurahairstudio.ca/?p=65 to https://aurahairstudio.ca/blog/
+10:22:49	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=33462
+10:22:49	Warning: 	File has moved from https://aurahairstudio.ca/?p=33462 to https://aurahairstudio.ca/contact-us/
+10:22:49	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=63616
+10:22:49	Warning: 	File has moved from https://aurahairstudio.ca/?p=63616 to https://aurahairstudio.ca/tips-for-styling-womens-short-hair/
+10:23:02	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=63602
+10:23:02	Warning: 	File has moved from https://aurahairstudio.ca/?p=63602 to https://aurahairstudio.ca/curly-hair-tips-from-innisfils-best-stylists/
+10:23:04	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=63599
+10:23:04	Warning: 	File has moved from https://aurahairstudio.ca/?p=63599 to https://aurahairstudio.ca/how-to-maintain-your-blonde-hair-between-salon-visits/
+10:23:16	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://aurahairstudio.ca/xmlrpc.php?rsd (from https://aurahairstudio.ca/)
+10:23:16	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=63502
+10:23:16	Warning: 	File has moved from https://aurahairstudio.ca/?p=63502 to https://aurahairstudio.ca/2026s-hottest-hair-colours-spotted/
+10:23:18	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=63496
+10:23:18	Warning: 	File has moved from https://aurahairstudio.ca/?p=63496 to https://aurahairstudio.ca/how-much-is-hair-styling-for-women-in-innisfil/
+10:23:24	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=63485
+10:23:24	Warning: 	File has moved from https://aurahairstudio.ca/?p=63485 to https://aurahairstudio.ca/what-are-the-best-haircuts-for-thick-curly-hair/
+10:23:41	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=63484
+10:23:41	Warning: 	File has moved from https://aurahairstudio.ca/?p=63484 to https://aurahairstudio.ca/bridal-hair-trials-how-to-prep-for-your-big-day/
+10:23:45	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=63463
+10:23:45	Warning: 	File has moved from https://aurahairstudio.ca/?p=63463 to https://aurahairstudio.ca/what-makes-aura-different-from-other-hair-salons-in-innisfil/
+10:23:49	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=63453
+10:23:49	Warning: 	File has moved from https://aurahairstudio.ca/?p=63453 to https://aurahairstudio.ca/5-hairstyles-for-the-new-year/
+10:23:57	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=63445
+10:23:57	Warning: 	File has moved from https://aurahairstudio.ca/?p=63445 to https://aurahairstudio.ca/how-much-does-colouring-your-hair-cost/
+10:23:58	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=63439
+10:23:58	Warning: 	File has moved from https://aurahairstudio.ca/?p=63439 to https://aurahairstudio.ca/how-to-choose-a-haircut-that-suits-you/
+10:23:58	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=63403
+10:23:58	Warning: 	File has moved from https://aurahairstudio.ca/?p=63403 to https://aurahairstudio.ca/sos-for-damaged-hair-spa-treatments-that-actually-work/
+10:24:16	Error: 	"Not Found" (404) at link https://aurahairstudio.ca/wp-json/wp/v2/users/11 (from https://aurahairstudio.ca/author/daniel/)
+10:24:17	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=63386
+10:24:17	Warning: 	File has moved from https://aurahairstudio.ca/?p=63386 to https://aurahairstudio.ca/how-to-maintain-hair-extensions/
+10:24:18	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=63332
+10:24:18	Warning: 	File has moved from https://aurahairstudio.ca/?p=63332 to https://aurahairstudio.ca/balayage-vs-ombre-which-trendy-look-to-choose-for-this-summer/
+10:24:19	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=63313
+10:24:19	Warning: 	File has moved from https://aurahairstudio.ca/?p=63313 to https://aurahairstudio.ca/how-to-choose-the-right-hair-colour-for-your-skin-tone/
+10:24:24	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=63371
+10:24:24	Warning: 	File has moved from https://aurahairstudio.ca/?p=63371 to https://aurahairstudio.ca/how-much-does-a-professional-blowout-cost-in-innisfil/
+10:24:31	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=63396
+10:24:31	Warning: 	File has moved from https://aurahairstudio.ca/?p=63396 to https://aurahairstudio.ca/what-are-layered-haircuts/
+10:24:31	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=63298
+10:24:31	Warning: 	File has moved from https://aurahairstudio.ca/?p=63298 to https://aurahairstudio.ca/the-best-haircuts-for-your-face-shape/
+10:24:33	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=63318
+10:24:33	Warning: 	File has moved from https://aurahairstudio.ca/?p=63318 to https://aurahairstudio.ca/how-much-is-a-haircut-in-innisfil/
+10:24:33	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=63325
+10:24:33	Warning: 	File has moved from https://aurahairstudio.ca/?p=63325 to https://aurahairstudio.ca/how-often-should-you-get-a-haircut/
+10:24:33	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=63285
+10:24:33	Warning: 	File has moved from https://aurahairstudio.ca/?p=63285 to https://aurahairstudio.ca/10-most-requested-haircuts-in-2025/
+10:24:33	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=63354
+10:24:33	Warning: 	File has moved from https://aurahairstudio.ca/?p=63354 to https://aurahairstudio.ca/what-to-expect-during-a-keratin-treatment/
+10:24:33	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=63363
+10:24:33	Warning: 	File has moved from https://aurahairstudio.ca/?p=63363 to https://aurahairstudio.ca/extensions-101-which-type-is-best-for-you/
+10:24:33	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=63290
+10:24:33	Warning: 	File has moved from https://aurahairstudio.ca/?p=63290 to https://aurahairstudio.ca/how-often-should-you-cut-your-hair/
+10:24:33	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=63280
+10:24:33	Warning: 	File has moved from https://aurahairstudio.ca/?p=63280 to https://aurahairstudio.ca/how-much-does-a-womens-haircut-cost-in-innisfil/
+10:24:34	Warning: 	Moved Permanently for https://aurahairstudio.ca/?p=63148
+10:24:34	Warning: 	File has moved from https://aurahairstudio.ca/?p=63148 to https://aurahairstudio.ca/booking/
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 19 seconds : 550 links scanned, 502 files written (57169244 bytes overall) [44163064 bytes received at 138442 bytes/sec], 19465621 bytes transferred using HTTP compression in 279 files, ratio 24%, 34.5 requests per connection
+(13 errors, 66 warnings, 0 messages)
