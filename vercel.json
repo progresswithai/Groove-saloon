@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/aurahairstudio.ca/$1" }
+  ]
+}
